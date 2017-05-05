@@ -147,23 +147,6 @@ fieldset.field.col-mp{padding: 0 10px !important;}
     #checkout-review-table thead th, #checkout-review-table tbody tr td, #checkout-review-table tfoot tr td{padding: 15px 0px;}
 }
 
-.opc-wrapper .step-title {
-    background-color: #fff;
-    color: #000 !important;
-}
-
-#opc-sidebar, .checkout-review-table, #checkout-review-table {
-    background-color: #f2f5f8;
-}
-
-#opc-sidebar .step-title{
-    background-color: #f2f5f8;
-}
-
-#opc-sidebar {
-    padding: 30px;
-}
-
 
 .opc-wrapper .fieldset>.field.required>label:after, .opc-wrapper .fieldset>.field._required>label:after {
     margin-left: 10px;
@@ -183,3 +166,21 @@ fieldset.field.col-mp{padding: 0 10px !important;}
     border: 1px solid #006bb4;
     color: #ffffff;
 }
+
+.opc-wrapper .step-title {
+    background-color: #fff;
+    color: #000 !important;
+}
+
+#opc-sidebar, .checkout-review-table, #checkout-review-table {
+    background-color: #f2f5f8;
+}
+
+#opc-sidebar .step-title{
+    background-color: #f2f5f8;
+}
+
+#opc-sidebar {
+    padding: 30px;
+}
+
